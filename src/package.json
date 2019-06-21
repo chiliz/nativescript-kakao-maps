@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-kakao-maps",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"description": "Kakao Maps SDK plugin for nativescript",
 	"main": "kakao-maps",
 	"typings": "index.d.ts",
@@ -32,11 +32,8 @@
 	"keywords": [
 		"Nativescript",
 		"Kakao",
-		"Maps",
-		"API",
-		"SDK"
+		"Kakao Maps"
 	],
-	"author": "",
 	"bugs": {
 		"url": "https://github.com/chiliz/nativescript-kakao-maps/issues"
 	},
